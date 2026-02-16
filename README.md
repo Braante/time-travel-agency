@@ -2,6 +2,14 @@
 
 Webapp (landing page + galerie de destinations + chatbot IA + réservation) pour une agence fictive de voyage temporel de luxe.
 
+Voici l'url pour accéder à la Webapp : **https://time-travel-agency-rosy.vercel.app/**
+Lien vers le Github : **https://github.com/Braante/time-travel-agency/**
+
+## 👥 Groupe
+- Julien MATTEODO
+- Thomas EVEILLARD
+- Brandon PORTE
+
 ## ✨ Stack
 - React + Vite
 - Tailwind CSS
@@ -61,13 +69,9 @@ Placez vos images dans `public/assets/` en gardant les mêmes noms (ou modifiez 
 
 Optionnel : ajoutez une vidéo hero `public/hero.mp4`.
 
-## 👥 Groupe
-- Nom Prénom 1
-- Nom Prénom 2
-- Nom Prénom 3
-- Nom Prénom 4
-
 ## 🧾 Crédits
 - Modèles IA : Mistral API (chat)
 - Animations : Framer Motion
 - UI : Tailwind CSS
+- ChatGPT : la réflexion sur l'architecture du projet
+- Claude : pour la construction du code
