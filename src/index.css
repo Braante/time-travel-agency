@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* { -webkit-tap-highlight-color: transparent; }
+
+html, body {
+  height: 100%;
+}
+
+a { text-underline-offset: 3px; }
+
+::selection {
+  background: rgba(234,179,8,0.25);
+}
