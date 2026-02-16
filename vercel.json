@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/chat.js": { "runtime": "nodejs20.x" }
+    "api/chat.js": { "runtime": "nodejs24.13.1" }
   },
   "rewrites": [
     { "source": "/api/(.*)", "destination": "/api/$1" }
