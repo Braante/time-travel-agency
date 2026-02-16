@@ -4,9 +4,9 @@ Webapp (landing page + galerie de destinations + chatbot IA + réservation) pour
 
 TimeTravel Agency est une webapp interactive (React/Vite) simulant une agence fictive de voyage temporel de luxe. Elle propose une landing page immersive, une galerie de destinations avec fiches détaillées, un widget de chat type concierge (mode démo ou IA) et un formulaire de pré-réservation.
 
-Voici l'url pour accéder à la Webapp : **https://time-travel-agency-rosy.vercel.app/**
+Voici l'url pour accéder à la Webapp : **https://timetravel-agency-webapp.vercel.app/**
 
-Lien vers le Github : **https://github.com/Braante/time-travel-agency/**
+Lien vers le Github : **[https://github.com/Braante/time-travel-agency/](https://github.com/Fireginger/timetravel-agency-webapp)**
 
 ## 👥 Groupe
 - Julien MATTEODO
